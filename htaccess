@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^peritosmexico\.com.mx$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.peritosmexico\.com.mx$
+RewriteRule ^/?$ "https\:\/\/peritosmexico\.com.mx\/" [R=301,L]
