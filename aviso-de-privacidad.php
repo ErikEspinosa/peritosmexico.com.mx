@@ -8,7 +8,8 @@
 <header class="page-header">
     <h1>Aviso de privacidad</h1>
 </header>
-<div class="page-content">
+
+<div class="container page-content">
     <h2>I. Identidad y Domicilio.</h2>
     <p>Peritos México (el “Responsable”), en cumplimiento de lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y los Lineamientos del Aviso de Privacidad (la “Ley”) pone a sus disposición este aviso de privacidad (el “Aviso de Privacidad”), para dar a conocer los términos y condiciones para el tratamiento de datos personales que de tiempo en tiempo pueda recabar. Para efectos del presente Aviso, el Responsable señala como domicilio el ubicado en xxx xx, Col. xxx, Del. xxx, Ciudad de México.</p>
         
