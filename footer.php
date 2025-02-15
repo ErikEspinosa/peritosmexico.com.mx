@@ -15,7 +15,8 @@
 				<div>
 					<h4>Contacto</h4>
 					<p><a href="mailto:info@peritosmexico.com.mx" title="Correo electrónico">info@peritosmexico.com.mx</a><br>
-					Teléfono: <a href="tel:5561189036" title="Teléfono">55 6118 9036</a><br>
+					<a href="mailto:peritosmexico.7@gmail.com" title="Correo electrónico">peritosmexico.7@gmail.com</a><br>
+					Teléfonos: <a href="tel:5541049029" title="Teléfono">55 4104 9029</a> | <a href="tel:5539956206" title="Teléfono">55 3995 6206</a><br>
 					Ciudad de México</p>
 				</div>
 
