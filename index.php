@@ -72,34 +72,6 @@
 					<h3>RH COMPLIANCE</h3>
 				</a>
 			</div>
-			
-			<div>
-				<a href="./nom–035-stps">
-					<i class="fas fa-balance-scale"></i>
-					<h3>NOM – 035 - STPS</h3>
-				</a>
-			</div>
-			
-			<div>
-				<a href="./distintivo-esr-empresa-socialmente-responsable">
-					<i class="fas fa-tree"></i>
-					<h3>DISTINTIVO ESR (EMPRESA SOCIALMENTE RESPONSABLE)</h3>
-				</a>
-			</div>
-			
-			<div>
-				<a href="./atraccion-de-talento-especializado">
-					<i class="fas fa-lightbulb"></i>
-					<h3>ATRACCIÒN DE TALENTO ESPECIALIZADO</h3>
-				</a>
-			</div>
-			
-			<div>
-				<a href="./iso-9001-2015-sistemas-de-gestion-de-la-calidad">
-					<i class="fas fa-check-circle"></i>
-					<h3>ISO 9001:2015 Sistemas de Gestión de la Calidad</h3>
-				</a>
-			</div>
 
 			<div>
 				<a href="./periciales-en-psicologia">

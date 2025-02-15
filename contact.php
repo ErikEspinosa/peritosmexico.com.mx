@@ -27,12 +27,18 @@
 				<h3>Otros medios</h3>
 				<p>Alguno de nuestros especialista le atenderá con mucho gusto. Nuestro horario de atención es de Lunes a Viernes de 09:00 a 18:00 hrs.</p>
 				
-				<a href="tel:5561189036" title="Teléfono">
-					<i class="fas fa-phone-volume"></i> 55 6118 9036
+				<a href="tel:5541049029" title="Teléfono">
+					<i class="fas fa-phone-volume"></i> 55 4104 9029
 				</a>
-				<a href="https://wa.me/525531254548" title="WhatsApp">
-					<i class="fab fa-whatsapp"></i> 55 3125 4548
-				</a>				
+				<a href="tel:5539956206" title="Teléfono">
+					<i class="fas fa-phone-volume"></i> 55 3995 6206
+				</a>
+				<a href="mailto:info@peritosmexico.com.mx" title="Correo electrónico">
+					info@peritosmexico.com.mx
+				</a>
+				<a href="mailto:peritosmexico.7@gmail.com" title="Correo electrónico">
+					peritosmexico.7@gmail.com
+				</a>
 			</div>
 		</div>
 	</div>
